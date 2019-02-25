@@ -1,4 +1,3 @@
-# secKill
 基于SpringMVC+Spring+MyBatis实现高并发秒杀API，基于慕课网视频。
 
 # 本课程分为第四个部分：
@@ -23,6 +22,12 @@
 5、前端：交互设计、Bootstrap、JQuery;
 
 6、高并发：高并发点和高并发分析、优化思路并实现。
+
 # 效果演示：
 
- ![image](https://github.com/JluTiger/secKill/list.png)
+
+ ![image](https://github.com/JluTiger/secKill/blob/master/list.png)
+ 
+ ![image](https://github.com/JluTiger/secKill/blob/master/seckill.png)
+  
+ ![image](https://github.com/JluTiger/secKill/blob/master/fail.png)
