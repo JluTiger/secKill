@@ -23,3 +23,6 @@
 5、前端：交互设计、Bootstrap、JQuery;
 
 6、高并发：高并发点和高并发分析、优化思路并实现。
+# 效果演示：
+
+ ![image](https://github.com/JluTiger/secKill/list.png)
